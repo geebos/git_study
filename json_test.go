@@ -7,6 +7,7 @@ import (
 
 func TestA(t *testing.T) {
 	fmt.Println(len("git"))
+	fmt.Println(len("git"))
 }
 
 func TestB(t *testing.T) {
